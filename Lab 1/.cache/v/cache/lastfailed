@@ -1,0 +1,9 @@
+{
+  "gcd_test.py::TestGcd::test_gcd_integers_neg_pos": true,
+  "gcd_test.py::TestGcd::test_gcd_integers_negative": true,
+  "gcd_test.py::TestGcd::test_gcd_integers_pos_neg": true,
+  "gcd_test.py::TestGcd::test_gcd_integers_positive": true,
+  "gcd_test.py::TestGcd::test_gcd_integers_positive1": true,
+  "gcd_test.py::TestGcd::test_gcd_integers_positive2": true,
+  "gcd_test.py::TestGcd::test_gcd_integers_positive3": true
+}
